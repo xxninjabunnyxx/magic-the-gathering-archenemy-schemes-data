@@ -1,0 +1,16 @@
+---
+object: set
+id: 238beedf-1d4d-475f-a980-527ba2f55dc6
+code: oarc
+name: Archenemy Schemes
+uri: https://api.scryfall.com/sets/238beedf-1d4d-475f-a980-527ba2f55dc6
+scryfall_uri: https://scryfall.com/sets/oarc
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aoarc&unique=prints
+released_at: '2010-06-18'
+set_type: archenemy
+card_count: 45
+parent_set_code: arc
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/arc.svg?1694404800
